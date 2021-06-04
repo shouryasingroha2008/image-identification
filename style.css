@@ -1,0 +1,31 @@
+body{
+    color:aqua;
+    background-color: lightcoral;
+}
+
+.heading{
+    width:80%;
+    font-size: 23px;
+}
+
+.nameOfObjects,#resultObjectName,#resultObjectAccuracy{
+    color:lightgreen;
+
+}
+
+hr{
+    
+    background-color: red;
+}
+
+#camera{
+    border:5px dashed lightsalmon;
+    width:360px;
+    height:300px;
+}
+
+#result{
+    border:5px solid black;
+    width:360px;
+    height:300px;
+}
